@@ -18,7 +18,7 @@ class GitJunit {
 	     }else {
 	    	 System.out.println("No");
 	     }
-		
+		 
 	}
 
 }
